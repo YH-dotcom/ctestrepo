@@ -3,7 +3,7 @@
 # Let's start programming
 
 
-What I want to **learn** is:
+◆What I want to **learn** is:
 - Git
 - Jenkins
 - Ansible
